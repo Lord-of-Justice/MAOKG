@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/META-INF/Lab3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/PrintingImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/PrintingImage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,8 +72,12 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1YtsLjos0LCc4w8T8vZMMtL4uoj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -83,6 +96,7 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab2" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
@@ -91,7 +105,7 @@
       <recent name="sample" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.PrintingImage">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -224,22 +238,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583774973691" />
-    <state width="1323" height="216" key="GridCell.Tab.0.bottom" timestamp="1583779035934">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2010" y="114" key="CommitChangelistDialog2" timestamp="1584879241357">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
+    <state x="2010" y="114" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584879241357" />
+    <state x="2106" y="275" key="FileChooserDialogImpl" timestamp="1584955276092">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="275" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584955276092" />
+    <state width="914" height="187" key="GridCell.Tab.0.bottom" timestamp="1584986227381">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584986227381" />
     <state width="1323" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583779035934" />
-    <state width="1323" height="216" key="GridCell.Tab.0.center" timestamp="1583779035934">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="914" height="187" key="GridCell.Tab.0.center" timestamp="1584986227381">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="187" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584986227381" />
     <state width="1323" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583779035934" />
-    <state width="1323" height="216" key="GridCell.Tab.0.left" timestamp="1583779035934">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="914" height="187" key="GridCell.Tab.0.left" timestamp="1584986227381">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="187" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584986227381" />
     <state width="1323" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583779035934" />
-    <state width="1323" height="216" key="GridCell.Tab.0.right" timestamp="1583779035934">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="914" height="187" key="GridCell.Tab.0.right" timestamp="1584986227381">
+      <screen x="1366" y="0" width="1920" height="1040" />
     </state>
+    <state width="914" height="187" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584986227381" />
     <state width="1323" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583779035934" />
+    <state width="1877" height="160" key="GridCell.Tab.1.bottom" timestamp="1584980868491">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584980868491" />
+    <state width="1877" height="160" key="GridCell.Tab.1.center" timestamp="1584980868491">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584980868491" />
+    <state width="1877" height="160" key="GridCell.Tab.1.left" timestamp="1584980868491">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584980868491" />
+    <state width="1877" height="160" key="GridCell.Tab.1.right" timestamp="1584980868491">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="160" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584980868491" />
+    <state x="1973" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584959015927">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1973" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584959015927" />
+    <state x="1982" y="240" key="run.anything.popup" timestamp="1584982922746">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1982" y="240" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1584982922746" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583774540350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
