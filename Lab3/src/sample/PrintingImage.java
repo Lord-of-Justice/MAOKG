@@ -80,6 +80,7 @@ public class PrintingImage extends Application{
                 }
             }
         }
+        primaryStage.setTitle("Lab3");
         primaryStage.setScene(scene); // ініціалізуємо сцену
         primaryStage.show(); // візуалізуємо сцену
         reader.close();
@@ -105,8 +106,8 @@ public class PrintingImage extends Application{
         }
         writer.close();
         System.out.println("number of black color pixels = " + numberOfPixels);
-// далі необхідно зробити рух об'єкту по заданій траеторії
 
+        // далі необхідно зробити рух об'єкту по заданій траеторії
         Path path2 = new Path();
         for (int l=0; l<numberOfPixels-1; l++)
         {
@@ -487,8 +488,8 @@ public class PrintingImage extends Application{
         ParallelTransition parallelTransition = new ParallelTransition();
         parallelTransition.getChildren().addAll(
                 rotateTransition,
-                scaleTransition
-                //pathTransition
+                scaleTransition,
+                pathTransition
         );
         parallelTransition.setCycleCount(Timeline.INDEFINITE);
         parallelTransition.play();
