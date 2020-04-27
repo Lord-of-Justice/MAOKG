@@ -1,4 +1,4 @@
 # Lab 5
-Машина рухається вліво та вправо після натискання кнопки “Go”, зупинятись при натисканні “Stop”, та  прискорюється-сповільнюється, іде вниз-вверх за натисканням клавіш a, d, s, w відповідно. Також використовуються кнопки  q і e для поворотів.
+М’яч пригає по сходах. Керувати м’ячем вліво-вправо можна за допомогою клавіш a, d відповідно.
 
-Завантажити приклади виконання роботи можна за цими посиланнями: [video1](https://github.com/Lord-of-Justice/MAOKG/blob/master/Lab5/examples/example1.mp4?raw=true), [video2](https://github.com/Lord-of-Justice/MAOKG/blob/master/Lab5/examples/example2.mp4?raw=true)
+Переглянути приклад виконання роботи можна за цими посиланнями: [example](https://github.com/Lord-of-Justice/MAOKG/blob/master/Lab5/example.gif)
